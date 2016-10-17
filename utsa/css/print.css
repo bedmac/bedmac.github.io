@@ -1,0 +1,21 @@
+/* */
+* {
+	background-color:white !important;
+	background-image: none !important;
+}
+
+/* hide branding elements */
+#branding-blue{display:none;}
+
+/* hide navigation */
+#col-navigation { display:none;}
+
+.pageTitle, .pageTitle a {margin-left: -9px; color: #000;}
+
+/* expand the content column with full width of page */ 
+#col-main{width: 100%}
+
+/* hide footers */
+#footer-gray, #footer-blue{display:none;}
+#footer-blue {display:none;}
+#expanded-footer  {display:none;}
